@@ -1,5 +1,8 @@
 
 #!/bin/bash
+<<help 
+this is script
+help
 
 source_dir="/c/users/mrunali/downloads"
 destination_dir="/c/users/mrunali/downloads/backups"
